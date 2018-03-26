@@ -1,0 +1,67 @@
+http://dev.zipidy.co.uk/rtm/public_html/login/
+abhay@indusnet.co.in
+asdqwe12!
+
+
+https://dev.zipidy.co.uk/phpmyadmin/
+dev_rtm / bPf9Fn.Oq#piGUBky
+
+
+
+
+
+1) ios: after deleting comment initially a blank panel is showing before listing existing message
+
+2) ios/ android : delete icon should not show beside admin comments
+
+------------------
+
+
+1) dashboard button name child , but  add child page heading childs
+
+2) Toast message showing for wrong upn number or  upn mapping success message
+
+3) if child is inactive status then  mapping should not happen , it should return alert
+
+4) change delete child confirm msg " Are you sure,you want to delete this child "
+
+5) Change the button name from "Add more child "  to "Add Child"
+
+6)During add child , there should be an option to declare relationship .
+
+
+
+-----------------------------------
+
+1) If student deleted then corresponding parent will also get deleted if that parent is not mapped with any other student
+
+2) Parent relation should be depend upon parent gender, if parent gender is male then relation cant be mother
+
+3)parent gender is not updating 
+
+4) After deleting student still corresponding entry is not deleted from  `tbl_users_profiles_mapping` table
+
+5) If no group present then show " No record found" in the group page
+
+
+
+------------------------
+
+in forgetpassword screen , if we enter a email address which is not available on db , then alert message should show.
+
+
+===================================
+
+
+
+T001142
+T001146
+T001169
+T001170
+T001164
+
+p_re@yopmail.com
+asdqwe12!
+
+
+
